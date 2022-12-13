@@ -3,15 +3,15 @@ This is the learning path for programming!
 
 ```mermaid
   graph TD;
-      Z[ME];
-      Z --> A[0. Python];
+      Z["😎"];
+      Z --"🥰"--> A[0. Python];
       A --> B[1. Web Scraping]
       A --> C[2. Foudnation of Machine Learning]
       A --> D[3. Data ETL]
-      Z --> H[4. SQL]
+      Z --"🧐"--> H[4. SQL]
       D --> E[6. CI/CD pipline]
-      Z ----> F[12. Java]
-      Z ----> M[10. JavaScript]
+      Z --"🙄"----> F[12. Java]
+      Z --"🥳"----> M[10. JavaScript]
       M --> N[11. REST JS]
       B --> G[5. Airflow advanced]
       H --> I[7. BigQuery]
