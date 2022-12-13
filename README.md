@@ -10,11 +10,12 @@ This is the learning path for programming!
       A --> D[3. Data ETL]
       Z --> H[4. SQL]
       D --> E[6. CI/CD pipline]
-      Z ----> F[10. Java]
+      Z ----> F[12. Java]
+      Z ----> M[10. JavaScript]
+      Z ----> N[11. REST JS]
       B --> G[5. Airflow advanced]
       H --> I[7. BigQuery]
       C --> J[8. NLP]
       C --> K[9. OCR]
-      F --> L[11. ElasticSearch]
-      
+      F --> L[13. ElasticSearch]
 ```
