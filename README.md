@@ -12,7 +12,7 @@ This is the learning path for programming!
       D --> E[6. CI/CD pipline]
       Z ----> F[12. Java]
       Z ----> M[10. JavaScript]
-      Z ----> N[11. REST JS]
+      M --> N[11. REST JS]
       B --> G[5. Airflow advanced]
       H --> I[7. BigQuery]
       C --> J[8. NLP]
