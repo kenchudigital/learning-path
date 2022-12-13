@@ -19,3 +19,6 @@ This is the learning path for programming!
       C --> K[9. OCR]
       F --> L[13. ElasticSearch]
 ```
+
+# Project Summary
+Prepare the project summary ...
