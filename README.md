@@ -8,7 +8,7 @@ This is the learning path for programming!
       A --> B[1. Web Scraping]
       A --> C[2. Foudnation of Machine Learning]
       A --> D[3. Data ETL]
-      A --> H[4. SQL]
+      Z --> H[4. SQL]
       D --> E[6. CI/CD pipline]
       Z ----> F[10. Java]
       B --> G[5. Airflow advanced]
